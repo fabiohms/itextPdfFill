@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ItextPdfFill</id>
+    <version>1.0.0</version>
+    <authors>Fábio Henrique Silva</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Uma extensão da biblioteca itext7 que implementa algumas funcionalidades
+      uteis na manipulação de pdfs, como preenchimento de campos de formulário e assinaturas
+      digitais.</description>
+    <tags>Itext7</tags>
+    <repository type="git" url="https://github.com/fabiohms/itextPdfFill" commit="a5d3e1737644b6bbd77dbd4a29dfb5d54fe3a2c4" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CsvHelper" version="33.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="itext7.bouncy-castle-adapter" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\itextPdfFill\itextPdfFill\bin\Release\net8.0\itextPdfFill.dll" target="lib\net8.0\itextPdfFill.dll" />
+  </files>
+</package>
