@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\bin\Debug\net8.0\itextPdfFill.deps.json
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\bin\Debug\net8.0\itextPdfFill.dll
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\bin\Debug\net8.0\itextPdfFill.pdb
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.AssemblyInfo.cs
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.sourcelink.json
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.dll
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\refint\itextPdfFill.dll
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\itextPdfFill.pdb
+C:\Users\user\source\repos\itextPdfFill\itextPdfFill\obj\Debug\net8.0\ref\itextPdfFill.dll

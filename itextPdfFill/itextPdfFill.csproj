@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Informações do pacote NuGet -->
+    <PackageId>INetPdfUtil</PackageId>
+    <!-- Nome único no NuGet -->
+    <Version>1.0.0</Version>
+    <!-- Versão do pacote -->
+    <Authors>Fábio Henrique Silva</Authors>
+    <!-- Nome do autor -->
+    <Description>
+      Uma extensão da biblioteca itext7 que implementa algumas funcionalidades
+      uteis na manipulação de pdfs, como preenchimento de campos de formulário e assinaturas
+      digitais.
+    </Description>
+    <!-- Descrição do pacote -->
+    <PackageTags>Itext7</PackageTags>
+    <!-- Tags para facilitar a busca -->
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <!-- Licença do pacote -->
+    <RepositoryUrl>https://github.com/fabiohms/itextPdfFill</RepositoryUrl>
+    <!-- URL do repositório -->
+
+    <!-- Controla se o pacote é gerado como parte do processo de build -->
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
+    <PackageReference Include="itext7" Version="8.0.5" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.5" />
+  </ItemGroup>
+
+</Project>
